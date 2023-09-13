@@ -1,0 +1,53 @@
+[
+    {
+      "id": 12345,
+      "cover_img": "https://i.ibb.co/hfjqSS0/26035378-7127359.jpg",
+      "title": "The Adventure Begins",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/djHbDg8/one-confident-engineer-construction-site-generated-by-ai.jpg",
+      "posted_date": "September 20, 2023",
+      "reading_time": 10 ,
+      "hashtags": ["#Adventure", "#Travel", "#Exploration"]
+    },
+    {
+      "id": 67890,
+      "cover_img": "https://i.ibb.co/Vwydkzp/5214520.jpg",
+      "title": "Cooking with Chef Emily",
+      "author": "Emily Smith",
+      "author_img": "https://i.ibb.co/Z60VkYx/close-up-smiley-people-working-together.jpg",
+      "posted_date": "October 5, 2023",
+      "reading_time": 15,
+      "hashtags": ["#Cooking", "#Recipes", "#Foodie"]
+    },
+    {
+      "id": 54321,
+      "cover_img": "https://i.ibb.co/R2f7pP4/298-furniture-social-media-post-template.jpg",
+      "title": "Tech Trends 2023",
+      "author": "Jane Techster",
+      "author_img": "https://i.ibb.co/ZSZtF6r/free-photo-good-friday-background-with-jesus-christ-cross.jpg",
+      "posted_date": "August 15, 2023",
+      "reading_time": 8,
+      "hashtags": ["#Tech", "#Trends", "#Innovation"]
+    },
+    {
+      "id": 98765,
+      "cover_img": "https://i.ibb.co/Qb4tvKS/5786101.jpg",
+      "title": "Gardening Tips and Tricks",
+      "author": "Alice Green",
+      "author_img": "https://i.ibb.co/xm2Fg1M/life-another-planet-with-fictional-elements.jpg",
+      "posted_date": "November 10, 2023",
+      "reading_time": 12,
+      "hashtags": ["#Gardening", "#Tips", "#GreenThumb"]
+    },
+    {
+      "id": 24680,
+      "cover_img": "https://i.ibb.co/CV2fWks/6244792.jpg",
+      "title": "Financial Planning for Beginners",
+      "author": "David Finance",
+      "author_img": "https://i.ibb.co/D45f1jp/young-adult-engineer-holding-soldered-computer-chip-generated-by-ai.jpg",
+      "posted_date": "July 25, 2023",
+      "reading_time": 7,
+      "hashtags": ["#Finance", "#MoneyManagement", "#Investing"]
+    }
+  ]
+  
