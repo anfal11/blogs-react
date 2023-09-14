@@ -16,9 +16,13 @@ function App() {
   const handleMarkAsRead = time => {
     const newTime = readingTime + time;
     setReadingTime(newTime); 
+
+    // remove the read blog from bookmarks
+    const newBookmarks = bookmarks.filter(bookmark => bookmark.reading_time !== time);
+    setBookmarks(newBookmarks);
   };
   
-  
+
 
   return (
     <div className='max-w-7xl mx-auto'>
